@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "http://localhost:8082/filteredimage?image_url=https://timedotcom.files.wordpress.com/2019/03/kitten-report.jpg",
+			"name": "filteredimage?image_url=https://timedotcom.files.wordpress.com/2019/03/kitten-report.jpg",
 			"request": {
 				"method": "GET",
 				"header": [],
@@ -54,7 +54,7 @@
 	],
 	"variable": [
 		{
-			"id": "7f8184c1-860a-437b-9da2-9e707e406c04",
+			"id": "d977e455-f73d-4c1c-bd1f-8538823c3bf1",
 			"key": "HOST",
 			"value": "localhost:8082",
 			"type": "string"
