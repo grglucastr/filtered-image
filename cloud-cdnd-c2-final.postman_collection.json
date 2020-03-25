@@ -11,7 +11,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://{{HOST}}/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kenworth_W900_semi_in_red.jpg/800px-Kenworth_W900_semi_in_red.jpg",
+					"raw": "http://{{HOST}}/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/1/14/Rodney_boat.jpg",
 					"protocol": "http",
 					"host": [
 						"{{HOST}}"
@@ -22,7 +22,7 @@
 					"query": [
 						{
 							"key": "image_url",
-							"value": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kenworth_W900_semi_in_red.jpg/800px-Kenworth_W900_semi_in_red.jpg"
+							"value": "https://upload.wikimedia.org/wikipedia/commons/1/14/Rodney_boat.jpg"
 						}
 					]
 				}
@@ -54,9 +54,9 @@
 	],
 	"variable": [
 		{
-			"id": "d977e455-f73d-4c1c-bd1f-8538823c3bf1",
+			"id": "d4ffe528-ca5c-4a81-95a4-dd1a48ec053b",
 			"key": "HOST",
-			"value": "localhost:8082",
+			"value": "grglucastr-image-filter-dev.us-east-1.elasticbeanstalk.com",
 			"type": "string"
 		}
 	],
